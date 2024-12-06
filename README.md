@@ -1,3 +1,5 @@
+Hi there! 👋
+
 💻 Developer | Innovator | Creative
 
 Hi! I’m Emmanuel, a software developer driven by the thrill of solving everyday problems with nothing but a laptop and big ideas. I’m all about building solutions that matter, blending technical expertise with creative energy to deliver impactful projects.
