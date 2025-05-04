@@ -1,8 +1,6 @@
-Hi there! 👋
+Hey! 👋
 
-💻 Developer | Innovator | Creative
-
-Hi! I’m Emmanuel, a software developer driven by the thrill of solving everyday problems with nothing but a laptop and big ideas. I’m all about building solutions that matter, blending technical expertise with creative energy to deliver impactful projects.
+I’m Emmanuel, a software developer driven by the thrill of solving everyday problems with nothing but a laptop and big ideas. I’m all about building solutions that matter, blending technical expertise with creative energy to deliver impactful projects.
 
 🚀 Current Projects
 
@@ -27,7 +25,7 @@ Hi! I’m Emmanuel, a software developer driven by the thrill of solving everyda
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 🔧 My Toolkit
-Frontend wizardry: ReactJS, TailwindCSS
+Frontend wizardry: NextJS, TailwindCSS
 Backend mastery: NodeJS, ExpressJS
 Version control: Git
 
